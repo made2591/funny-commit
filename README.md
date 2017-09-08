@@ -2,6 +2,12 @@
 
 ```funny-commit.sh``` is a really simple bash script that gets [whatthecommit.com](http://whatthecommit.com) website commit message and creates a git commit with an always-changing funny text for you. It is intended for your first commits or test commits or whatever...
 
+## Preview
+
+<p>
+	<img src="./example.png" width="100%"/>
+</p>
+
 ## Instruction
 
 ```funny-commit.sh``` does not confirm the commit. It always open your git default editor with the funny text inside ready to be committed. 
