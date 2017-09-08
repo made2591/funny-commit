@@ -8,7 +8,7 @@
 	<img src="./example.png" width="100%"/>
 </p>
 
-## Instruction
+## Instructions
 
 ```funny-commit.sh``` does not confirm the commit. It always open your git default editor with the funny text inside ready to be committed. 
 
